@@ -1578,7 +1578,7 @@ form label {
   left: 0;
   transition: all .2s ease-out;
 }
-.fh5co-nav-toggle.fh5co-nav-white > i {
+.fh5co-nav-toggle. > i {
   color: #fff;
   background: #fff;
 }
@@ -1838,6 +1838,15 @@ form label {
 
 .js .animate-box {
   opacity: 0;
+}
+
+.fondo-blur{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  opacity: 0.75;
 }
 
 /*# sourceMappingURL=style.css.map */

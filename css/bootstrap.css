@@ -578,6 +578,15 @@ mark,
   font-weight: 900;
 }
 
+.text-white2 {
+  /* color: #; */
+  color: #fff;
+  /* font-weight: 900; */
+  font-family: fantasy, Verdana, sans-serif;
+}
+
+
+
 .text-primary {
   color: #337ab7;
 }

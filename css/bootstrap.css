@@ -574,8 +574,9 @@ mark,
 }
 .text-white {
   /* color: #CDC74B; */
-  color: #F1C40F;
+  color: #86895d;
   font-weight: 900;
+  font-family: fantasy, Verdana, sans-serif;
 }
 
 .text-white2 {

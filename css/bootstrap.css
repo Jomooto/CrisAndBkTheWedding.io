@@ -573,7 +573,8 @@ mark,
   color: #777777;
 }
 .text-white {
-  color: #CDC74B;
+  /* color: #CDC74B; */
+  color: #fff;
   font-weight: 900;
 }
 
@@ -587,7 +588,7 @@ a.text-primary:focus {
 }
 
 .text-big {
-  font-size: 160px;
+  font-size: 150px;
 }
 
 .text-success {

@@ -572,6 +572,10 @@ mark,
 .text-muted {
   color: #777777;
 }
+.text-white {
+  color: #CDC74B;
+  font-weight: 900;
+}
 
 .text-primary {
   color: #337ab7;
@@ -580,6 +584,10 @@ mark,
 a.text-primary:hover,
 a.text-primary:focus {
   color: #286090;
+}
+
+.text-big {
+  font-size: 170px;
 }
 
 .text-success {

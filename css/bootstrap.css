@@ -595,6 +595,10 @@ a.text-success:focus {
   color: #31708f;
 }
 
+.text-gold {
+  color: #ffd700;
+}
+
 a.text-info:hover,
 a.text-info:focus {
   color: #245269;

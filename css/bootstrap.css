@@ -591,6 +591,12 @@ mark,
   font-weight: 800;
   font-family: fantasy, Verdana, sans-serif;
 }
+.text-white4 {
+  /* color: #; */
+  color: #353535;
+  font-weight: 800;
+  font-family: fantasy, Verdana, sans-serif;
+}
 
 
 
@@ -608,6 +614,16 @@ a.text-primary:focus {
 }
 .text-big2 {
   font-size: 60px;
+}
+
+.text-big3 {
+  font-size: 30px;
+}
+
+.icon-l{
+  width: 20%;
+  height: 50px;
+  /* background-color: #ff00ff;  */
 }
 
 .text-success {
